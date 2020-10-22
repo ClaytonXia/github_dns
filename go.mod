@@ -1,4 +1,4 @@
-module github.com/claytonxia/github_cdn
+module github.com/claytonxia/github_dns
 
 go 1.13
 
