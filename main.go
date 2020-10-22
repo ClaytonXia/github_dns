@@ -10,7 +10,6 @@ func main() {
 	getFastlyAddr()
 	getAssetAddr()
 	getGithubAddr()
-	fmt.Println("dont't forget to restart networking")
 }
 
 func getFastlyAddr() {
